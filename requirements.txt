@@ -3,6 +3,6 @@ pandas
 numpy
 gspread
 oauth2client
+streamlit-calendar
 plotly
-streamlit_calendar
-streamlit_extras.metric_cards
+streamlit-extras
